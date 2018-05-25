@@ -13,3 +13,5 @@ arrow==0.12.1
 schedule==0.5.0
 Flask-Cors==3.0.3
 phonenumbers==8.9.6
+goslate==1.5.1
+playsound==1.2.2
