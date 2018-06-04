@@ -3,7 +3,7 @@ import json
 from gtts import gTTS
 from playsound import playsound
 import os
-def audi(request):
+def mytranslator(request):
     mytext = request.json['mytext']
     language = 'ta'
     myobj = gTTS(text=mytext, lang=language, slow=False)
