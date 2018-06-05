@@ -7,7 +7,7 @@ from flask import Flask,request, jsonify
 from flask_cors import CORS
 #from translator_json import mytranslator
 from audiomp3url import audiomp3url
-
+from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
