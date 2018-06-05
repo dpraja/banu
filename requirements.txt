@@ -21,8 +21,6 @@ MarkupSafe==1.0
 Open-Tamil==0.67
 phonenumbers==8.9.5
 Pillow==5.1.0
-cryptography==2.2.2
-PyAudio==0.2.11
 playsound==1.2.2
 psycopg2==2.7.4
 pyasn1==0.4.2
