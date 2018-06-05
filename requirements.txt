@@ -15,7 +15,6 @@ Flask-Cors==3.0.3
 phonenumbers==8.9.6
 goslate==1.5.1
 playsound==1.2.2
-gTTS==1.2.2
-gTTS-token==1.1.1
+
 PyAudio==0.2.11
 pygame==1.9.3
