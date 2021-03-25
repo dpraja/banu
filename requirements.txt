@@ -28,7 +28,7 @@ pyasn1-modules==0.2.1
 pygame==1.9.3
 python-dateutil==2.7.2
 pyttsx==1.1
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 rsa==3.4.2
 s3transfer==0.1.13
